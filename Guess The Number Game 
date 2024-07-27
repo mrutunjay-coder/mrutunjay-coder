@@ -1,1 +1,18 @@
-Here i am trying to make a game using Random Module in python.... This is a short game which helps beginners to understand Random Module in python...
+Here i am trying to make a game using Random Module in python.... This is a short game which helps beginners to understand Random Module in python...For now i am going to use the Randint(a,b) function where 'a' and 'b' are the Range limits.... The function returns random interger N in the range (a,b), i.e., a≤N≤b( both range limits are inclusive ).
+
+
+
+Here it is the code.......
+
+print(``Guess The Number '') #Name of the Game.
+print(Choose and integer between 'a' and 'b') #'a' and 'b' should be choose by user.  'a' and 'b' will be integer and a<b.
+import random
+num=int(input("choose your no:  "))
+num1=random. randint(a,b)
+print(num1)
+if num==num1:
+    print("Your are the winner")
+else:
+    print("Try again")
+
+
