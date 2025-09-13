@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mrutunjay-coder
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Making Jarvis Technology 
+- 👋 Hi, I’m @mech_engineer_mrutunjay
+- 👀 I’m interested in Machines
+- 🌱 I’m currently staying 1st year Mechanical Engineering
+- 💞️ I’m looking to collaborate for my Own Company
 - 📫 How to reach me through my Gmail- mrutunjayparida10@gmail.com 
 - ⚡ Fun fact: ...I am Beginner Now 
 
